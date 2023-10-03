@@ -6,7 +6,7 @@
     </div>
     <div>
       <label for="password">PW:</label>
-      <input type="text" v-model="password">
+      <input type="text" v-model="password"> 
     </div>
     <button type="submit">로그인</button>
   </form>
